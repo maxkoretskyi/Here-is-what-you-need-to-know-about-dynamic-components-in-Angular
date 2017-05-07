@@ -10,3 +10,5 @@ Running the app
 npm i
 npm start
 ```
+
+Open a browser and navigate to http://localhost:8080/
